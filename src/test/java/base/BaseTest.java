@@ -24,6 +24,8 @@ public class BaseTest {
 			browser.close();
 		if (playwright != null)
 			playwright.close();
+		
+		
 
 	}
 }
